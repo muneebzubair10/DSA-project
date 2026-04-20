@@ -806,9 +806,4 @@ int main()
 }
 
 
-//improvments: 1)can add reason as : "transfered from acc x to y"
-//
-//
-//
-//
 
